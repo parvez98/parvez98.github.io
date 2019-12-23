@@ -3,14 +3,14 @@
 
   		}
   		.navbar{
-  			background-color: #04337c;
+  			background-color: #000000;
   			font-size: 15px;
   		}
   		.navbar-nav li a{
   			color: #fff !important;
   		}
   		.navbar-nav li a:hover, .navbar-nav li.active a{
-  			color: #04337c !important;
+  			color: #000000 !important;
   			background-color: #fff !important;
   		}
   		.navbar-brand{
@@ -18,7 +18,7 @@
   		}
   		.jumbotron{
   			color: #fff !important;
-			background-color: #04337c;
+			background-color: #000000;
   		}
   		.jumbotron h1{
   			font-size: 70px;
